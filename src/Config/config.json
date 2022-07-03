@@ -1,0 +1,16 @@
+{
+  "name": "Cronos Mainnet Beta",
+  "chain_id": "25",
+  "write_rpc": "https://evm.cronos.org/",
+  "read_rpc": "https://gateway.nebkas.ro/",
+  "symbol": "CRO",
+  "explorer": "https://cronoscan.com/",
+  "usdc_contract": "0xc21223249CA28397B4B6541dfFaEcC539BfF0c59",
+  "svn_contract": "0x654bAc3eC77d6dB497892478f854cF6e8245DcA9",
+  "mmf_contract": "0x97749c9B61F878a880DfE312d2594AE07AEd7656",
+  "cro_steak_contract": "0xd3c053dE4fF3d3fA734fCc74f7269c1227C170df",
+  "usdc_steak_contract": "0x64468fa3b842082eBC844Bd74D16FEb093a12C45",
+  "svn_steak_contract": "0x240b039f58C8516e670602b058aDc395dC48DdfD",
+  "mmf_steak_contract": "0xE56Bb7b50FA602c42C90Cd0162e21D45aaDe61a4",
+  "lottery_steak_contract": "0x33ca6054Ad5449c8add78d83E8a095a2E1C13FCf"
+}
